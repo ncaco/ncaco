@@ -26,7 +26,6 @@
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ncaco&theme=highcontrast)
 
 ## 🌟 Featured Projects
 - [Project Name 1](link): A brief description of the project.
