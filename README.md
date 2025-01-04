@@ -25,7 +25,6 @@
 ![Tibero](https://img.shields.io/badge/-Tibero-232F3E?style=flat-square)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncaco&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ncaco&theme=highcontrast)
 
@@ -34,8 +33,6 @@
 - [Project Name 2](link): A brief description of the project.
 
 ## 📫 Contact & Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/YourProfile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/YourProfile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ncaco97@gmail.com)
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3eWJ2bmw4b3Q2NWJicnZlcGd2cjdwemp4azJ4NjJ5czd1enhjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp" width="300">
