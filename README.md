@@ -1,5 +1,6 @@
 # 👋 Hello, I'm nCaCo!
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3eWJ2bmw4b3Q2NWJicnZlcGd2cjdwemp4azJ4NjJ5czd1enhjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp" width="300">
+
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
