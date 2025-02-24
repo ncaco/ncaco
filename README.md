@@ -7,6 +7,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=jsp&logoColor=white)
+![JSTL](https://img.shields.io/badge/-JSTL-007396?style=flat-square&logo=jstl&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
@@ -28,6 +30,22 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+
+### 🌐 Cloud
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
+
+### 📦 Tools
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+
+
+
+
+
+
 
 ---
 
