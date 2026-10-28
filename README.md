@@ -46,19 +46,13 @@
   <a href="https://github.com/ncaco?tab=repositories"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=stars&amp;label=Stars%20earned&amp;color=B34E78" alt="Stars earned on public repositories"></a>
 </div>
 
-### Stats & languages
+### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/ncaco">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide=contribs&amp;hide_border=true&amp;title_color=b4a4ff&amp;icon_color=6edacc&amp;text_color=d4d9e8&amp;bg_color=00000000">
       <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide=contribs&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=39465c&amp;bg_color=00000000" alt="GitHub statistics for ncaco" width="450">
-    </picture>
-  </a>
-  <a href="https://github.com/ncaco?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&amp;layout=compact&amp;hide_border=true&amp;title_color=b4a4ff&amp;text_color=d4d9e8&amp;bg_color=00000000">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&amp;layout=compact&amp;hide_border=true&amp;title_color=7053bb&amp;text_color=39465c&amp;bg_color=00000000" alt="Most used languages in public repositories" width="450">
     </picture>
   </a>
 </div>
@@ -72,18 +66,7 @@
       <img src="https://streak-stats.demolab.com/?user=ncaco&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=7053BB&amp;fire=168391&amp;currStreakLabel=7053BB&amp;dates=56637B&amp;sideLabels=39465C&amp;sideNums=39465C&amp;currStreakNum=39465C" alt="GitHub contribution streak for ncaco" width="500">
     </picture>
   </a>
-  <br><br>
-  <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=30&amp;width=700&amp;height=140&amp;line_color=b4a4ff&amp;fill_color=6edacc&amp;title=Last%2030%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 30 days" width="90%">
-  </a>
-  <br><br>
-  <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=90&amp;width=700&amp;height=140&amp;line_color=6edacc&amp;fill_color=b4a4ff&amp;title=Last%2090%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 90 days" width="90%">
-  </a>
-  <br><br>
-  <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution calendar for ncaco over the last year" width="100%">
-  </a>
+
 </div>
 
 
