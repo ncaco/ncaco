@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="nCaCo — a little corner of the internet" width="100%">
+  <img src="./assets/header.svg" alt="Ncaco — a little corner of the internet" width="100%">
 
   <br><br>
 
@@ -10,7 +10,7 @@
 
   <br>
 
-  `1997.01.20` &nbsp; · &nbsp; `Web & Development` &nbsp; · &nbsp; `nCaCo`
+  `1997.01.20` &nbsp; · &nbsp; `AI Engineer · Product Builder` &nbsp; · &nbsp; `Ncaco`
 
 </div>
 
