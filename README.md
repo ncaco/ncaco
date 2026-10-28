@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="Ncaco — AI Engineer and Product Builder" width="100%">
 
   <p><b>AI Engineer · Product Builder</b></p>
-  <p><a href="#about">ABOUT</a> &nbsp; / &nbsp; <a href="#toolbox">TOOLBOX</a> &nbsp; / &nbsp; <a href="#activity">ACTIVITY</a></p>
+  <p><a href="#about">ABOUT</a> &nbsp; / &nbsp; <a href="#activity">ACTIVITY</a> &nbsp; / &nbsp; <a href="#toolbox">TOOLBOX</a></p>
 </div>
 
 <br>
@@ -21,6 +21,62 @@
 <sub>NCACO &nbsp; / &nbsp; BORN 1997.01.20</sub>
 
 <br clear="right">
+
+---
+
+## Activity
+
+공개 저장소와 GitHub에 표시되는 기여 활동을 한눈에 살펴보세요.
+
+### Snapshot
+
+<div align="center">
+  <a href="https://github.com/ncaco?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fncaco&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat&amp;color=168391&amp;logo=github" alt="Number of public repositories"></a>
+  <a href="https://github.com/ncaco?tab=followers"><img src="https://img.shields.io/github/followers/ncaco?style=flat&amp;color=7053bb&amp;logo=github" alt="GitHub followers"></a>
+
+  <br>
+  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=contributions&amp;label=Year%20to%20date&amp;color=7053bb" alt="Contributions this year"></a>
+  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=week&amp;label=This%20week&amp;color=168391" alt="Commits this week"></a>
+  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=prs&amp;label=Pull%20requests&amp;color=356ac3" alt="Pull requests this year"></a>
+  <br>
+  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=commits&amp;label=Commits%20this%20year&amp;color=168391" alt="Commits this year"></a>
+  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=issues&amp;label=Issues%20this%20year&amp;color=356ac3" alt="Issues opened this year"></a>
+  <a href="https://github.com/ncaco?tab=repositories"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=stars&amp;label=Stars%20earned&amp;color=B34E78" alt="Stars earned on public repositories"></a>
+</div>
+
+### Stats & languages
+
+<div align="center">
+  <a href="https://github.com/ncaco">
+    <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=56637b&amp;bg_color=00000000" alt="GitHub statistics for ncaco" width="48%">
+  </a>
+  <a href="https://github.com/ncaco?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&amp;layout=compact&amp;hide_border=true&amp;title_color=7053bb&amp;text_color=56637b&amp;bg_color=00000000" alt="Most used languages in public repositories" width="48%">
+  </a>
+</div>
+
+<sub>언어 비율은 공개 저장소의 코드 분포이며 숙련도를 뜻하지 않습니다.</sub>
+
+### Contribution rhythm
+
+<div align="center">
+  <a href="https://github.com/ncaco?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=ncaco&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=7053BB&amp;fire=168391&amp;currStreakLabel=7053BB&amp;dates=56637B&amp;sideLabels=56637B&amp;sideNums=56637B&amp;currStreakNum=56637B" alt="GitHub contribution streak for ncaco" width="75%">
+  </a>
+  <br><br>
+  <a href="https://github.com/ncaco?tab=overview">
+    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=30&amp;width=700&amp;height=140&amp;line_color=7053bb&amp;fill_color=168391&amp;title=Last%2030%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 30 days" width="90%">
+  </a>
+  <br><br>
+  <a href="https://github.com/ncaco?tab=overview">
+    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=90&amp;width=700&amp;height=140&amp;line_color=168391&amp;fill_color=7053bb&amp;title=Last%2090%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 90 days" width="90%">
+  </a>
+  <br><br>
+  <a href="https://github.com/ncaco?tab=overview">
+    <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution chart for ncaco" width="100%">
+  </a>
+</div>
+
 
 ---
 
@@ -124,42 +180,6 @@
 ![Prettier](https://img.shields.io/badge/Prettier-A94F55?style=flat&logo=prettier&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-7154AC?style=flat&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-3868AA?style=flat&logo=jest&logoColor=white)
-
----
-
-## Activity
-
-GitHub의 공개 저장소와 기여 활동을 살펴보세요.
-
-<div align="center">
-  <a href="https://github.com/ncaco?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fncaco&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat&amp;color=168391&amp;logo=github" alt="Number of public repositories"></a>
-  <a href="https://github.com/ncaco?tab=followers"><img src="https://img.shields.io/github/followers/ncaco?style=flat&amp;color=7053bb&amp;logo=github" alt="GitHub followers"></a>
-
-  <br>
-  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=contributions&amp;label=Year%20to%20date&amp;color=7053bb" alt="Contributions this year"></a>
-  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=week&amp;label=This%20week&amp;color=168391" alt="Commits this week"></a>
-  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=prs&amp;label=Pull%20requests&amp;color=356ac3" alt="Pull requests"></a>  <br><br>
-  <a href="https://github.com/ncaco">
-    <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=56637b&amp;bg_color=00000000" alt="GitHub statistics for ncaco" width="48%">
-  </a>
-  <a href="https://github.com/ncaco?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&amp;layout=compact&amp;hide_border=true&amp;title_color=7053bb&amp;text_color=56637b&amp;bg_color=00000000" alt="Most used languages in public repositories" width="48%">
-  </a>
-  <br><br>
-  <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://streak-stats.demolab.com/?user=ncaco&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=7053BB&amp;fire=168391&amp;currStreakLabel=7053BB&amp;dates=56637B&amp;sideLabels=56637B&amp;sideNums=56637B&amp;currStreakNum=56637B" alt="GitHub contribution streak for ncaco" width="75%">
-  </a>
-  <br><br>
-  <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=30&amp;width=700&amp;height=140&amp;line_color=7053bb&amp;fill_color=168391&amp;title=Last%2030%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 30 days" width="90%">
-  </a>  <br><br>
-  <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution chart for ncaco" width="100%">
-  </a>
-  <br>
-  <sub>언어 비율은 공개 저장소의 코드 분포이며 숙련도를 뜻하지 않습니다.</sub>
-</div>
-
 <br>
 
 ---
