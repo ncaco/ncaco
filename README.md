@@ -20,6 +20,8 @@
 
 <sub>NCACO &nbsp; / &nbsp; BORN 1997.01.20</sub>
 
+[Website](https://www.ncacoding.com/) &nbsp; · &nbsp; [Blog](https://ncaco97.tistory.com/)
+
 <br clear="right">
 
 ---
@@ -48,10 +50,16 @@
 
 <div align="center">
   <a href="https://github.com/ncaco">
-    <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=56637b&amp;bg_color=00000000" alt="GitHub statistics for ncaco" width="48%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=b4a4ff&amp;icon_color=6edacc&amp;text_color=d4d9e8&amp;bg_color=00000000">
+      <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=39465c&amp;bg_color=00000000" alt="GitHub statistics for ncaco" width="450">
+    </picture>
   </a>
   <a href="https://github.com/ncaco?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&amp;layout=compact&amp;hide_border=true&amp;title_color=7053bb&amp;text_color=56637b&amp;bg_color=00000000" alt="Most used languages in public repositories" width="48%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&amp;layout=compact&amp;hide_border=true&amp;title_color=b4a4ff&amp;text_color=d4d9e8&amp;bg_color=00000000">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&amp;layout=compact&amp;hide_border=true&amp;title_color=7053bb&amp;text_color=39465c&amp;bg_color=00000000" alt="Most used languages in public repositories" width="450">
+    </picture>
   </a>
 </div>
 
@@ -61,7 +69,10 @@
 
 <div align="center">
   <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://streak-stats.demolab.com/?user=ncaco&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=7053BB&amp;fire=168391&amp;currStreakLabel=7053BB&amp;dates=56637B&amp;sideLabels=56637B&amp;sideNums=56637B&amp;currStreakNum=56637B" alt="GitHub contribution streak for ncaco" width="75%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ncaco&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=B4A4FF&amp;fire=6EDACC&amp;currStreakLabel=B4A4FF&amp;dates=ADB8CE&amp;sideLabels=D4D9E8&amp;sideNums=F1F3FA&amp;currStreakNum=F1F3FA">
+      <img src="https://streak-stats.demolab.com/?user=ncaco&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=7053BB&amp;fire=168391&amp;currStreakLabel=7053BB&amp;dates=56637B&amp;sideLabels=39465C&amp;sideNums=39465C&amp;currStreakNum=39465C" alt="GitHub contribution streak for ncaco" width="500">
+    </picture>
   </a>
   <br><br>
   <a href="https://github.com/ncaco?tab=overview">
@@ -75,6 +86,8 @@
   <a href="https://github.com/ncaco?tab=overview">
     <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution chart for ncaco" width="100%">
   </a>
+  <br>
+  <sub>위젯마다 집계 기준과 갱신 시점이 달라 수치가 다를 수 있습니다.</sub>
 </div>
 
 
