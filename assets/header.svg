@@ -1,16 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Hello, world! I'm nCaCo</title>
-  <desc id="desc">A dark navy banner with blue and violet accents.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101a36"/><stop offset="1" stop-color="#24204b"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#64d8f3"/><stop offset="1" stop-color="#aa91ff"/></linearGradient>
-  </defs>
-  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
-  <circle cx="1070" cy="36" r="170" fill="#7764df" opacity=".13"/>
-  <circle cx="110" cy="300" r="150" fill="#45c7e8" opacity=".08"/>
-  <path d="M52 50h42" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
-  <text x="600" y="100" text-anchor="middle" fill="#87dff6" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="5">HELLO, WORLD!</text>
-  <text x="600" y="180" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="68" font-weight="700">I'm nCaCo<tspan fill="#9c92ff">.</tspan></text>
-  <text x="600" y="226" text-anchor="middle" fill="#b8c5e6" font-family="Arial, sans-serif" font-size="19" letter-spacing="2">WELCOME TO MY GITHUB</text>
-  <path d="M1106 250h42" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">nCaCo — a little corner of the internet</title><desc id="desc">A dark editorial banner with a colorful abstract orbit.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11182a"/><stop offset="1" stop-color="#1d1732"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#76e3d2"/><stop offset=".55" stop-color="#8a9bff"/><stop offset="1" stop-color="#e698d8"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#9987ff" stop-opacity=".28"/><stop offset="1" stop-color="#9987ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<circle cx="940" cy="174" r="180" fill="url(#glow)"/>
+<g fill="none" stroke="url(#line)" opacity=".78"><ellipse cx="943" cy="180" rx="150" ry="62" transform="rotate(-28 943 180)" stroke-width="2"/><ellipse cx="943" cy="180" rx="150" ry="62" transform="rotate(33 943 180)" stroke-width="2"/><circle cx="943" cy="180" r="84" stroke-width="1" opacity=".55"/></g>
+<circle cx="943" cy="180" r="29" fill="url(#line)"/><circle cx="816" cy="237" r="6" fill="#76e3d2"/><circle cx="1052" cy="110" r="5" fill="#e698d8"/>
+<path d="M68 55h32" stroke="#76e3d2" stroke-width="4" stroke-linecap="round"/>
+<text x="68" y="105" fill="#a9b6d1" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">A LITTLE CORNER OF THE INTERNET</text>
+<text x="63" y="210" fill="#f5f6ff" font-family="Arial, sans-serif" font-size="96" font-weight="700" letter-spacing="-4">nCaCo<tspan fill="#84ddcf">.</tspan></text>
+<text x="70" y="255" fill="#bfc8dd" font-family="Arial, sans-serif" font-size="20" letter-spacing="1">hello there, nice to meet you</text>
+<path d="M68 302h140" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+<text x="1130" y="323" text-anchor="end" fill="#8c98b4" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">EST. 1997</text>
 </svg>

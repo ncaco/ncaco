@@ -1,63 +1,72 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="nCaCo — Hello, world!" width="100%">
-
-  <br>
-
-  **안녕하세요, nCaCo입니다!** 👋<br>
-  프론트엔드부터 백엔드, 데이터베이스까지 다양한 기술을 다루고 있습니다.
-
-  <sub>🎂 1997.01.20</sub>
+  <img src="./assets/header.svg" alt="nCaCo — a little corner of the internet" width="100%">
 
   <br><br>
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3eWJ2bmw4b3Q2NWJicnZlcGd2cjdwemp4azJ4NjJ5czd1enhjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp" width="220" alt="A little animation">
+  ### 안녕하세요, 엔카코입니다 👋
+
+  이곳은 제가 관심 있는 기술을 살펴보고<br>
+  이것저것 만들어 보며 기록하는 공간입니다.
+
+  <br>
+
+  `🎂 1997.01.20` &nbsp; · &nbsp; `💻 Web & Development` &nbsp; · &nbsp; `✨ nCaCo`
+
 </div>
 
 <br>
 
-## 🛠️ Tech Stack
+---
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logoColor=white)
-![JSTL](https://img.shields.io/badge/-JSTL-007396?style=flat-square&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<br>
 
-#### ⚙️ Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+### 🌱 A little about me
 
-#### 🗄️ Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Tibero](https://img.shields.io/badge/-Tibero-232F3E?style=flat-square)
+프론트엔드부터 백엔드, 데이터베이스까지 폭넓게 관심을 갖고 있습니다.<br>
+새로운 도구와 기술을 접하고, 직접 사용해 보며 기록합니다.
 
-#### 🔧 DevOps & Infrastructure
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+<br>
 
-#### ☁️ Cloud
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
+### 🧩 Things I work with
 
-#### 🧰 Tools
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logoColor=white)
+**Languages**<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-22283B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-22283B?style=flat-square&logo=typescript&logoColor=60A5FA)
+![Python](https://img.shields.io/badge/Python-22283B?style=flat-square&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-22283B?style=flat-square)
+
+**Web & Backend**<br>
+![React](https://img.shields.io/badge/React-22283B?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-22283B?style=flat-square&logo=vite&logoColor=B6A2FF)
+![Node.js](https://img.shields.io/badge/Node.js-22283B?style=flat-square&logo=nodedotjs&logoColor=83CD29)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-22283B?style=flat-square&logo=springboot&logoColor=6DB33F)
+![HTML5](https://img.shields.io/badge/HTML5-22283B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-22283B?style=flat-square&logo=css&logoColor=68A8F5)
+
+**Data & Tools**<br>
+![MySQL](https://img.shields.io/badge/MySQL-22283B?style=flat-square&logo=mysql&logoColor=68B7DA)
+![MariaDB](https://img.shields.io/badge/MariaDB-22283B?style=flat-square&logo=mariadb&logoColor=D6B99A)
+![Oracle](https://img.shields.io/badge/Oracle-22283B?style=flat-square&logo=oracle&logoColor=FF655F)
+![Docker](https://img.shields.io/badge/Docker-22283B?style=flat-square&logo=docker&logoColor=54B5F5)
+![Git](https://img.shields.io/badge/Git-22283B?style=flat-square&logo=git&logoColor=F17860)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-22283B?style=flat-square&logo=googlecloud&logoColor=8AB4F8)
+
+<details>
+<summary>그 밖에 함께 사용하는 기술과 도구</summary>
+<br>
+JSP · JSTL · Tibero · Apache · Tomcat · Firebase · Cursor · Eclipse · VS Code · GitHub
+</details>
 
 <br>
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by! ✨</sub>
+  <br>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3eWJ2bmw4b3Q2NWJicnZlcGd2cjdwemp4azJ4NjJ5czd1enhjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp" width="160" alt="A friendly animated GIF">
+  <br><br>
+  <b>들러주셔서 감사합니다!</b><br>
+  <sub>Thanks for stopping by · Have a lovely day ✨</sub>
+  <br><br>
+  <a href="https://github.com/ncaco"><img src="https://img.shields.io/badge/GitHub-@ncaco-22283B?style=flat-square&logo=github&logoColor=white" alt="GitHub @ncaco"></a>
 </div>
