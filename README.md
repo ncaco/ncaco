@@ -15,12 +15,11 @@
 
 **아이디어를 기술로 연결하고, 직접 만들어 보며 배웁니다.**
 
-인공지능과 제품 개발을 중심으로 프론트엔드, 백엔드, 데이터베이스까지<br>
-다양한 기술을 살펴보고 실험한 내용을 기록합니다.
+인공지능과 제품 개발을 중심으로 프론트엔드, 백엔드, 데이터베이스까지 다양한 기술을 살펴보고 실험한 내용을 기록합니다.
 
 <sub>NCACO &nbsp; / &nbsp; BORN 1997.01.20</sub>
 
-[Website](https://www.ncacoding.com/) &nbsp; · &nbsp; [Blog](https://ncaco97.tistory.com/)
+[Ncacoding 홈페이지](https://www.ncacoding.com/) &nbsp; · &nbsp; [엔카코 블로그](https://ncaco97.tistory.com/)
 
 <br clear="right">
 
@@ -37,9 +36,9 @@
   <a href="https://github.com/ncaco?tab=followers"><img src="https://img.shields.io/github/followers/ncaco?style=flat&amp;color=7053bb&amp;logo=github" alt="GitHub followers"></a>
 
   <br>
-  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=contributions&amp;label=Year%20to%20date&amp;color=7053bb" alt="Contributions this year"></a>
-  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=week&amp;label=This%20week&amp;color=168391" alt="Commits this week"></a>
-  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=prs&amp;label=Pull%20requests&amp;color=356ac3" alt="Pull requests this year"></a>
+  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=contributions&amp;label=Contributions%20this%20year&amp;color=7053bb" alt="Contributions this year"></a>
+  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=week&amp;label=Commits%20this%20week&amp;color=168391" alt="Commits this week"></a>
+  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=prs&amp;label=PRs%20this%20year&amp;color=356ac3" alt="Pull requests this year"></a>
   <br>
   <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=commits&amp;label=Commits%20this%20year&amp;color=168391" alt="Commits this year"></a>
   <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=issues&amp;label=Issues%20this%20year&amp;color=356ac3" alt="Issues opened this year"></a>
@@ -76,11 +75,11 @@
   </a>
   <br><br>
   <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=30&amp;width=700&amp;height=140&amp;line_color=7053bb&amp;fill_color=168391&amp;title=Last%2030%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 30 days" width="90%">
+    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=30&amp;width=700&amp;height=140&amp;line_color=b4a4ff&amp;fill_color=6edacc&amp;title=Last%2030%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 30 days" width="90%">
   </a>
   <br><br>
   <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=90&amp;width=700&amp;height=140&amp;line_color=168391&amp;fill_color=7053bb&amp;title=Last%2090%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 90 days" width="90%">
+    <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=90&amp;width=700&amp;height=140&amp;line_color=6edacc&amp;fill_color=b4a4ff&amp;title=Last%2090%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 90 days" width="90%">
   </a>
   <br><br>
   <a href="https://github.com/ncaco?tab=overview">
@@ -98,7 +97,7 @@
 사용하거나 실험해 본 기술을 분야별로 모았습니다.<br>
 <sub>AI · PRODUCT · WEB · DATA · INFRASTRUCTURE</sub>
 
-#### <img src="./assets/icons/brain.svg" width="19" height="19" alt=""> AI & Data
+### <img src="./assets/icons/brain.svg" width="19" height="19" alt=""> AI & Data
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-A34487?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-7053B7?style=flat&logo=langchain&logoColor=white)
@@ -109,7 +108,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-A34487?style=flat&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-7053B7?style=flat&logo=jupyter&logoColor=white)
 
-#### <img src="./assets/icons/frontend.svg" width="19" height="19" alt=""> Frontend
+### <img src="./assets/icons/frontend.svg" width="19" height="19" alt=""> Frontend
 
 ![React](https://img.shields.io/badge/React-087A91?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-266BC5?style=flat&logo=nextdotjs&logoColor=white)
@@ -125,7 +124,7 @@
 ![JSP](https://img.shields.io/badge/JSP-7053BB?style=flat)
 ![JSTL](https://img.shields.io/badge/JSTL-087A91?style=flat)
 
-#### <img src="./assets/icons/backend.svg" width="19" height="19" alt=""> Backend & API
+### <img src="./assets/icons/backend.svg" width="19" height="19" alt=""> Backend & API
 
 ![Node.js](https://img.shields.io/badge/Node.js-188062?style=flat&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-177C91?style=flat&logo=springboot&logoColor=white)
@@ -136,7 +135,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-188062?style=flat&logo=pydantic&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-177C91?style=flat&logo=celery&logoColor=white)
 
-#### <img src="./assets/icons/database.svg" width="19" height="19" alt=""> Data & Database
+### <img src="./assets/icons/database.svg" width="19" height="19" alt=""> Data & Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6651B2?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-376CBC?style=flat&logo=mysql&logoColor=white)
@@ -150,7 +149,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6651B2?style=flat&logo=sqlalchemy&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-376CBC?style=flat&logo=drizzle&logoColor=white)
 
-#### <img src="./assets/icons/cloud.svg" width="19" height="19" alt=""> Cloud & Infrastructure
+### <img src="./assets/icons/cloud.svg" width="19" height="19" alt=""> Cloud & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-326BB7?style=flat&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-168391?style=flat&logo=googlecloud&logoColor=white)
@@ -159,7 +158,7 @@
 ![Tomcat](https://img.shields.io/badge/Tomcat-168391?style=flat&logo=apachetomcat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-7658B8?style=flat&logo=nginx&logoColor=white)
 
-#### <img src="./assets/icons/mobile.svg" width="19" height="19" alt=""> Mobile & Desktop
+### <img src="./assets/icons/mobile.svg" width="19" height="19" alt=""> Mobile & Desktop
 
 ![React Native](https://img.shields.io/badge/React%20Native-B34E78?style=flat&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-7155B6?style=flat&logo=expo&logoColor=white)
@@ -167,7 +166,7 @@
 ![Electron](https://img.shields.io/badge/Electron-B34E78?style=flat&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-7155B6?style=flat&logo=tauri&logoColor=white)
 
-#### <img src="./assets/icons/code.svg" width="19" height="19" alt=""> Languages
+### <img src="./assets/icons/code.svg" width="19" height="19" alt=""> Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-356AC3?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6D55BD?style=flat&logo=javascript&logoColor=white)
@@ -182,7 +181,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-6D55BD?style=flat&logo=powershell&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-177C91?style=flat&logo=gnubash&logoColor=white)
 
-#### <img src="./assets/icons/build.svg" width="19" height="19" alt=""> Tools & Testing
+### <img src="./assets/icons/build.svg" width="19" height="19" alt=""> Tools & Testing
 
 ![Git](https://img.shields.io/badge/Git-A94F55?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-7154AC?style=flat&logo=github&logoColor=white)
