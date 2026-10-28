@@ -2,7 +2,11 @@
   <img src="./assets/header.svg" alt="Ncaco — AI Engineer and Product Builder" width="100%">
 
   <p><b>AI Engineer · Product Builder</b></p>
-  <p><a href="#user-content-about">소개</a> &nbsp; / &nbsp; <a href="#user-content-activity">활동</a> &nbsp; / &nbsp; <a href="#user-content-toolbox">기술 스택</a></p>
+  <p>
+    <a href="#user-content-about"><img src="https://img.shields.io/badge/%EC%86%8C%EA%B0%9C-7053BB?style=for-the-badge" alt="소개로 이동"></a>
+    <a href="#user-content-activity"><img src="https://img.shields.io/badge/%ED%99%9C%EB%8F%99-168391?style=for-the-badge" alt="활동로 이동"></a>
+    <a href="#user-content-toolbox"><img src="https://img.shields.io/badge/%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D-356AC3?style=for-the-badge" alt="기술 스택로 이동"></a>
+  </p>
 </div>
 
 <br>
@@ -17,8 +21,8 @@
 
 <sub>NCACO &nbsp; / &nbsp; BORN 1997.01.20</sub>
 
-[![Ncacoding 홈페이지](https://img.shields.io/badge/Ncacoding-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-7053BB?style=flat&logo=googlechrome&logoColor=white)](https://www.ncacoding.com/)
-[![엔카코 블로그](https://img.shields.io/badge/Blog-%EC%97%94%EC%B9%B4%EC%BD%94-168391?style=flat&logo=rss&logoColor=white)](https://ncaco97.tistory.com/)
+[![Ncacoding 홈페이지](https://img.shields.io/badge/Ncacoding-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-7053BB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ncacoding.com/)
+[![엔카코 블로그](https://img.shields.io/badge/Blog-%EC%97%94%EC%B9%B4%EC%BD%94-168391?style=for-the-badge&logo=rss&logoColor=white)](https://ncaco97.tistory.com/)
 
 <br clear="right">
 
