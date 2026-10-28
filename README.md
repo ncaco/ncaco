@@ -129,16 +129,28 @@
 
 ## Activity
 
-GitHub에서 공개된 활동을 살펴보세요.
+GitHub의 공개 저장소와 기여 활동을 살펴보세요.
 
 <div align="center">
+  <a href="https://github.com/ncaco?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fncaco&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat&amp;color=168391&amp;logo=github" alt="Number of public repositories"></a>
+  <a href="https://github.com/ncaco?tab=followers"><img src="https://img.shields.io/github/followers/ncaco?style=flat&amp;color=7053bb&amp;logo=github" alt="GitHub followers"></a>
+  <br><br>
   <a href="https://github.com/ncaco">
-    <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=56637b&amp;bg_color=00000000" alt="GitHub statistics for ncaco" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=56637b&amp;bg_color=00000000" alt="GitHub statistics for ncaco" width="48%">
+  </a>
+  <a href="https://github.com/ncaco?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaco&amp;layout=compact&amp;hide_border=true&amp;title_color=7053bb&amp;text_color=56637b&amp;bg_color=00000000" alt="Most used languages in public repositories" width="48%">
+  </a>
+  <br><br>
+  <a href="https://github.com/ncaco?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=ncaco&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=7053BB&amp;fire=168391&amp;currStreakLabel=7053BB&amp;dates=56637B&amp;sideLabels=56637B&amp;sideNums=56637B&amp;currStreakNum=56637B" alt="GitHub contribution streak for ncaco" width="75%">
   </a>
   <br><br>
   <a href="https://github.com/ncaco?tab=overview">
     <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution chart for ncaco" width="100%">
   </a>
+  <br>
+  <sub>언어 비율은 공개 저장소의 코드 분포이며 숙련도를 뜻하지 않습니다.</sub>
 </div>
 
 <br>
