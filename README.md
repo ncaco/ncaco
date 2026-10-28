@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="Ncaco — AI Engineer and Product Builder" width="100%">
 
   <p><b>AI Engineer · Product Builder</b></p>
-  <p><a href="#user-content-about">ABOUT</a> &nbsp; / &nbsp; <a href="#user-content-activity">ACTIVITY</a> &nbsp; / &nbsp; <a href="#user-content-toolbox">TOOLBOX</a></p>
+  <p><a href="#user-content-about">소개</a> &nbsp; / &nbsp; <a href="#user-content-activity">활동</a> &nbsp; / &nbsp; <a href="#user-content-toolbox">기술 스택</a></p>
 </div>
 
 <br>
@@ -13,13 +13,14 @@
 
 ### 안녕하세요, 엔카코입니다.
 
-**아이디어를 기술로 연결하고, 직접 만들어 보며 배웁니다.**
+> **아이디어를 기술로 연결하고, 직접 만들어 보며 배웁니다.**
 
 인공지능과 제품 개발을 중심으로 프론트엔드, 백엔드, 데이터베이스까지 다양한 기술을 살펴보고 실험한 내용을 기록합니다.
 
 <sub>NCACO &nbsp; / &nbsp; BORN 1997.01.20</sub>
 
-[Ncacoding 홈페이지](https://www.ncacoding.com/) &nbsp; · &nbsp; [엔카코 블로그](https://ncaco97.tistory.com/)
+[![Ncacoding 홈페이지](https://img.shields.io/badge/Ncacoding-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-7053BB?style=flat&logo=googlechrome&logoColor=white)](https://www.ncacoding.com/)
+[![엔카코 블로그](https://img.shields.io/badge/Blog-%EC%97%94%EC%B9%B4%EC%BD%94-168391?style=flat&logo=rss&logoColor=white)](https://ncaco97.tistory.com/)
 
 <br clear="right">
 
@@ -32,16 +33,18 @@
 ### Snapshot
 
 <div align="center">
+  <sub><b>PROFILE</b></sub><br>
   <a href="https://github.com/ncaco?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fncaco&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat&amp;color=168391&amp;logo=github" alt="Number of public repositories"></a>
   <a href="https://github.com/ncaco?tab=followers"><img src="https://img.shields.io/github/followers/ncaco?style=flat&amp;color=7053bb&amp;logo=github" alt="GitHub followers"></a>
 
-  <br>
+  <br><br>
+  <sub><b>CONTRIBUTIONS</b></sub><br>
   <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=contributions&amp;label=Contributions%20this%20year&amp;color=7053bb" alt="Contributions this year"></a>
   <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=week&amp;label=Commits%20this%20week&amp;color=168391" alt="Commits this week"></a>
-  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=prs&amp;label=PRs%20this%20year&amp;color=356ac3" alt="Pull requests this year"></a>
+  <a href="https://github.com/search?q=author%3Ancaco&amp;type=pullrequests"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=prs&amp;label=PRs%20this%20year&amp;color=356ac3" alt="Pull requests this year"></a>
   <br>
   <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=commits&amp;label=Commits%20this%20year&amp;color=168391" alt="Commits this year"></a>
-  <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=issues&amp;label=Issues%20this%20year&amp;color=356ac3" alt="Issues opened this year"></a>
+  <a href="https://github.com/search?q=author%3Ancaco&amp;type=issues"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=issues&amp;label=Issues%20this%20year&amp;color=356ac3" alt="Issues opened this year"></a>
   <a href="https://github.com/ncaco?tab=repositories"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=stars&amp;label=Stars%20earned&amp;color=B34E78" alt="Stars earned on public repositories"></a>
 </div>
 
@@ -50,8 +53,8 @@
 <div align="center">
   <a href="https://github.com/ncaco">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=b4a4ff&amp;icon_color=6edacc&amp;text_color=d4d9e8&amp;bg_color=00000000">
-      <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=39465c&amp;bg_color=00000000" alt="GitHub statistics for ncaco" width="450">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide=contribs&amp;hide_border=true&amp;title_color=b4a4ff&amp;icon_color=6edacc&amp;text_color=d4d9e8&amp;bg_color=00000000">
+      <img src="https://github-readme-stats.vercel.app/api?username=ncaco&amp;show_icons=true&amp;hide=contribs&amp;hide_border=true&amp;title_color=7053bb&amp;icon_color=168391&amp;text_color=39465c&amp;bg_color=00000000" alt="GitHub statistics for ncaco" width="450">
     </picture>
   </a>
   <a href="https://github.com/ncaco?tab=repositories">
@@ -84,6 +87,7 @@
     <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=90&amp;width=700&amp;height=140&amp;line_color=6edacc&amp;fill_color=b4a4ff&amp;title=Last%2090%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 90 days" width="90%">
   </a>
   <br><br>
+  <sub><b>LAST YEAR IN CONTRIBUTIONS</b></sub><br>
   <a href="https://github.com/ncaco?tab=overview">
     <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution calendar for ncaco over the last year" width="100%">
   </a>
@@ -97,7 +101,7 @@
 ## Toolbox
 
 사용하거나 실험해 본 기술을 분야별로 모았습니다.<br>
-<sub>AI · PRODUCT · WEB · DATA · INFRASTRUCTURE</sub>
+<sub><a href="#user-content--ai--data">AI &amp; Data</a> &nbsp; / &nbsp; <a href="#user-content--frontend">Frontend</a> &nbsp; / &nbsp; <a href="#user-content--backend--api">Backend</a> &nbsp; / &nbsp; <a href="#user-content--data--database">Database</a> &nbsp; / &nbsp; <a href="#user-content--cloud--infrastructure">Cloud</a> &nbsp; / &nbsp; <a href="#user-content--mobile--desktop">Mobile</a> &nbsp; / &nbsp; <a href="#user-content--languages">Languages</a> &nbsp; / &nbsp; <a href="#user-content--tools--testing">Tools</a></sub>
 
 ### <img src="./assets/icons/brain.svg" width="19" height="19" alt="AI and data icon"> AI & Data
 
@@ -201,6 +205,8 @@
 <div align="center">
   <b>Thanks for stopping by.</b><br>
   <sub>호기심에서 시작해, 직접 만들어 봅니다.</sub>
+  <br><br>
+  <a href="#user-content-about">소개로 돌아가기</a> &nbsp; · &nbsp; <a href="https://ncaco97.tistory.com/">블로그 구경하기</a>
   <br><br>
   <a href="https://github.com/ncaco"><img src="https://img.shields.io/badge/GitHub-@ncaco-7053BB?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub @ncaco"></a>
 </div>

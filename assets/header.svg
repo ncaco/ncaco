@@ -4,9 +4,9 @@
 <style>.heading{fill:#202842}.sub{fill:#58647d}@media (prefers-color-scheme:dark){.heading{fill:#f2f4ff}.sub{fill:#c5cce0}}</style>
 <defs><linearGradient id="accent" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#48c9bd"/><stop offset=".52" stop-color="#7378e8"/><stop offset="1" stop-color="#d078b2"/></linearGradient></defs>
 <path d="M65 56h46" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
-<text x="65" y="104" class="sub" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+<text x="65" y="104" class="sub" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">HELLO, I'M</text>
 <text x="60" y="204" class="heading" font-family="Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-4">Ncaco<tspan fill="#6f76df">.</tspan></text>
-<text x="66" y="245" class="sub" font-family="Arial,sans-serif" font-size="19" letter-spacing="1">Curious mind. Ideas in motion.</text>
+<text x="66" y="245" class="sub" font-family="Arial,sans-serif" font-size="25" letter-spacing="1">Curious mind. Ideas in motion.</text>
 <g transform="translate(950 155)"><circle r="94" fill="#817bec" opacity=".09"/><circle r="69" fill="none" stroke="#817bec" stroke-width="2" opacity=".55"/><ellipse rx="122" ry="42" fill="none" stroke="url(#accent)" stroke-width="3" transform="rotate(-28)"/><ellipse rx="122" ry="42" fill="none" stroke="url(#accent)" stroke-width="2" transform="rotate(33)" opacity=".65"/><circle r="24" fill="url(#accent)"/><circle cx="-108" cy="51" r="6" fill="#48c9bd"/><circle cx="98" cy="-64" r="5" fill="#d078b2"/></g>
 <path d="M65 276h1070" stroke="url(#accent)" stroke-width="2" opacity=".55"/>
 </svg>
