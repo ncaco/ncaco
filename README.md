@@ -15,8 +15,6 @@
 
 > **아이디어를 기술로 연결하고, 직접 만들어 보며 배웁니다.**
 
-인공지능과 제품 개발을 중심으로 프론트엔드, 백엔드, 데이터베이스까지 다양한 기술을 살펴보고 실험한 내용을 기록합니다.
-
 <sub>NCACO &nbsp; / &nbsp; BORN 1997.01.20</sub>
 
 [![Ncacoding 홈페이지](https://img.shields.io/badge/Ncacoding-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-7053BB?style=flat&logo=googlechrome&logoColor=white)](https://www.ncacoding.com/)
@@ -28,17 +26,13 @@
 
 ## Activity
 
-공개 저장소와 GitHub에 표시되는 기여 활동을 한눈에 살펴보세요.
-
 ### Snapshot
 
 <div align="center">
-  <sub><b>PROFILE</b></sub><br>
   <a href="https://github.com/ncaco?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fncaco&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat&amp;color=168391&amp;logo=github" alt="Number of public repositories"></a>
   <a href="https://github.com/ncaco?tab=followers"><img src="https://img.shields.io/github/followers/ncaco?style=flat&amp;color=7053bb&amp;logo=github" alt="GitHub followers"></a>
 
-  <br><br>
-  <sub><b>CONTRIBUTIONS</b></sub><br>
+  <br>
   <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=contributions&amp;label=Contributions%20this%20year&amp;color=7053bb" alt="Contributions this year"></a>
   <a href="https://github.com/ncaco?tab=overview"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=week&amp;label=Commits%20this%20week&amp;color=168391" alt="Commits this week"></a>
   <a href="https://github.com/search?q=author%3Ancaco&amp;type=pullrequests"><img src="https://ghstats.dev/api/mini?username=ncaco&amp;metric=prs&amp;label=PRs%20this%20year&amp;color=356ac3" alt="Pull requests this year"></a>
@@ -65,11 +59,7 @@
   </a>
 </div>
 
-<sub>언어 비율은 공개 저장소의 코드 분포이며 숙련도를 뜻하지 않습니다.</sub>
-
 ### Contribution rhythm
-
-연속 기여 기록과 최근 30일·90일의 활동 흐름을 살펴보세요.
 
 <div align="center">
   <a href="https://github.com/ncaco?tab=overview">
@@ -87,21 +77,15 @@
     <img src="https://ghstats.dev/api/sparkline?username=ncaco&amp;days=90&amp;width=700&amp;height=140&amp;line_color=6edacc&amp;fill_color=b4a4ff&amp;title=Last%2090%20days&amp;hide_border=true" alt="GitHub contribution trend over the last 90 days" width="90%">
   </a>
   <br><br>
-  <sub><b>LAST YEAR IN CONTRIBUTIONS</b></sub><br>
   <a href="https://github.com/ncaco?tab=overview">
     <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution calendar for ncaco over the last year" width="100%">
   </a>
-  <br>
-  <sub>위젯마다 집계 기준과 갱신 시점이 달라 수치가 다를 수 있습니다.</sub>
 </div>
 
 
 ---
 
 ## Toolbox
-
-사용하거나 실험해 본 기술을 분야별로 모았습니다.<br>
-<sub><a href="#user-content--ai--data">AI &amp; Data</a> &nbsp; / &nbsp; <a href="#user-content--frontend">Frontend</a> &nbsp; / &nbsp; <a href="#user-content--backend--api">Backend</a> &nbsp; / &nbsp; <a href="#user-content--data--database">Database</a> &nbsp; / &nbsp; <a href="#user-content--cloud--infrastructure">Cloud</a> &nbsp; / &nbsp; <a href="#user-content--mobile--desktop">Mobile</a> &nbsp; / &nbsp; <a href="#user-content--languages">Languages</a> &nbsp; / &nbsp; <a href="#user-content--tools--testing">Tools</a></sub>
 
 ### <img src="./assets/icons/brain.svg" width="19" height="19" alt="AI and data icon"> AI & Data
 
@@ -199,14 +183,3 @@
 ![Vitest](https://img.shields.io/badge/Vitest-7154AC?style=flat&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-3868AA?style=flat&logo=jest&logoColor=white)
 <br>
-
----
-
-<div align="center">
-  <b>Thanks for stopping by.</b><br>
-  <sub>호기심에서 시작해, 직접 만들어 봅니다.</sub>
-  <br><br>
-  <a href="#user-content-about">소개로 돌아가기</a> &nbsp; · &nbsp; <a href="https://ncaco97.tistory.com/">블로그 구경하기</a>
-  <br><br>
-  <a href="https://github.com/ncaco"><img src="https://img.shields.io/badge/GitHub-@ncaco-7053BB?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub @ncaco"></a>
-</div>
