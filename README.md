@@ -152,7 +152,7 @@
 
 <div align="center">
   <br>
-  <img src="./assets/android.svg" width="160" alt="Android mascot">
+  <img src="./assets/ncaco-character.png" width="180" alt="Ncaco character">
   <br><br>
   <b>들러주셔서 감사합니다!</b><br>
   <sub>Thanks for stopping by · Have a lovely day</sub>
