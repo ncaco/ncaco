@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="Ncaco — AI Engineer and Product Builder" width="100%">
 
   <p><b>AI Engineer · Product Builder</b></p>
-  <p><a href="#about">ABOUT</a> &nbsp; / &nbsp; <a href="#activity">ACTIVITY</a> &nbsp; / &nbsp; <a href="#toolbox">TOOLBOX</a></p>
+  <p><a href="#user-content-about">ABOUT</a> &nbsp; / &nbsp; <a href="#user-content-activity">ACTIVITY</a> &nbsp; / &nbsp; <a href="#user-content-toolbox">TOOLBOX</a></p>
 </div>
 
 <br>
@@ -66,6 +66,8 @@
 
 ### Contribution rhythm
 
+연속 기여 기록과 최근 30일·90일의 활동 흐름을 살펴보세요.
+
 <div align="center">
   <a href="https://github.com/ncaco?tab=overview">
     <picture>
@@ -83,7 +85,7 @@
   </a>
   <br><br>
   <a href="https://github.com/ncaco?tab=overview">
-    <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution chart for ncaco" width="100%">
+    <img src="https://ghchart.rshah.org/7053bb/ncaco" alt="GitHub contribution calendar for ncaco over the last year" width="100%">
   </a>
   <br>
   <sub>위젯마다 집계 기준과 갱신 시점이 달라 수치가 다를 수 있습니다.</sub>
@@ -97,7 +99,7 @@
 사용하거나 실험해 본 기술을 분야별로 모았습니다.<br>
 <sub>AI · PRODUCT · WEB · DATA · INFRASTRUCTURE</sub>
 
-### <img src="./assets/icons/brain.svg" width="19" height="19" alt=""> AI & Data
+### <img src="./assets/icons/brain.svg" width="19" height="19" alt="AI and data icon"> AI & Data
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-A34487?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-7053B7?style=flat&logo=langchain&logoColor=white)
@@ -108,7 +110,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-A34487?style=flat&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-7053B7?style=flat&logo=jupyter&logoColor=white)
 
-### <img src="./assets/icons/frontend.svg" width="19" height="19" alt=""> Frontend
+### <img src="./assets/icons/frontend.svg" width="19" height="19" alt="Frontend icon"> Frontend
 
 ![React](https://img.shields.io/badge/React-087A91?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-266BC5?style=flat&logo=nextdotjs&logoColor=white)
@@ -124,7 +126,7 @@
 ![JSP](https://img.shields.io/badge/JSP-7053BB?style=flat)
 ![JSTL](https://img.shields.io/badge/JSTL-087A91?style=flat)
 
-### <img src="./assets/icons/backend.svg" width="19" height="19" alt=""> Backend & API
+### <img src="./assets/icons/backend.svg" width="19" height="19" alt="Backend icon"> Backend & API
 
 ![Node.js](https://img.shields.io/badge/Node.js-188062?style=flat&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-177C91?style=flat&logo=springboot&logoColor=white)
@@ -135,7 +137,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-188062?style=flat&logo=pydantic&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-177C91?style=flat&logo=celery&logoColor=white)
 
-### <img src="./assets/icons/database.svg" width="19" height="19" alt=""> Data & Database
+### <img src="./assets/icons/database.svg" width="19" height="19" alt="Database icon"> Data & Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6651B2?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-376CBC?style=flat&logo=mysql&logoColor=white)
@@ -149,7 +151,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6651B2?style=flat&logo=sqlalchemy&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-376CBC?style=flat&logo=drizzle&logoColor=white)
 
-### <img src="./assets/icons/cloud.svg" width="19" height="19" alt=""> Cloud & Infrastructure
+### <img src="./assets/icons/cloud.svg" width="19" height="19" alt="Cloud icon"> Cloud & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-326BB7?style=flat&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-168391?style=flat&logo=googlecloud&logoColor=white)
@@ -158,7 +160,7 @@
 ![Tomcat](https://img.shields.io/badge/Tomcat-168391?style=flat&logo=apachetomcat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-7658B8?style=flat&logo=nginx&logoColor=white)
 
-### <img src="./assets/icons/mobile.svg" width="19" height="19" alt=""> Mobile & Desktop
+### <img src="./assets/icons/mobile.svg" width="19" height="19" alt="Mobile and desktop icon"> Mobile & Desktop
 
 ![React Native](https://img.shields.io/badge/React%20Native-B34E78?style=flat&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-7155B6?style=flat&logo=expo&logoColor=white)
@@ -166,7 +168,7 @@
 ![Electron](https://img.shields.io/badge/Electron-B34E78?style=flat&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-7155B6?style=flat&logo=tauri&logoColor=white)
 
-### <img src="./assets/icons/code.svg" width="19" height="19" alt=""> Languages
+### <img src="./assets/icons/code.svg" width="19" height="19" alt="Languages icon"> Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-356AC3?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6D55BD?style=flat&logo=javascript&logoColor=white)
@@ -181,7 +183,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-6D55BD?style=flat&logo=powershell&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-177C91?style=flat&logo=gnubash&logoColor=white)
 
-### <img src="./assets/icons/build.svg" width="19" height="19" alt=""> Tools & Testing
+### <img src="./assets/icons/build.svg" width="19" height="19" alt="Tools and testing icon"> Tools & Testing
 
 ![Git](https://img.shields.io/badge/Git-A94F55?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-7154AC?style=flat&logo=github&logoColor=white)
